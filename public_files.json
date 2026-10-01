@@ -1,0 +1,37 @@
+{
+  "workspace_root": "new_textbook",
+  "files": [
+    {
+      "source": "chapter_parity_black_scholes/working/studios/parity_studio_v1/app.py",
+      "destination": "app.py"
+    },
+    {
+      "source": "chapter_parity_black_scholes/working/studios/parity_studio_v1/finance.py",
+      "destination": "finance.py"
+    },
+    {
+      "source": "chapter_parity_black_scholes/working/studios/parity_studio_v1/question_bank.py",
+      "destination": "question_bank.py"
+    },
+    {
+      "source": "chapter_parity_black_scholes/working/studios/parity_studio_v1/requirements.txt",
+      "destination": "requirements.txt"
+    },
+    {
+      "source": "chapter_parity_black_scholes/working/studios/parity_studio_v1/.streamlit/config.toml",
+      "destination": ".streamlit/config.toml"
+    },
+    {
+      "source": "shared/studio_theme/parity_theme_v1.py",
+      "destination": "parity_theme_v1.py"
+    },
+    {
+      "source": "chapter_parity_black_scholes/examples/textbook_examples_v1.json",
+      "destination": "textbook_examples_v1.json"
+    },
+    {
+      "source": "chapter_parity_black_scholes/working/studios/parity_studio_v1/comparisons.py",
+      "destination": "comparisons.py"
+    }
+  ]
+}
